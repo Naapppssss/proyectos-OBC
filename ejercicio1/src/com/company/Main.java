@@ -14,6 +14,6 @@ public class Main {
         numero2 = new int [4];
         numero2 = new int [] {1, 2, 3, 4};
 
-        System.out.println(numero1);
+        System.out.println(numero2);
     }
 }
