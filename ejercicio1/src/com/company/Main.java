@@ -10,10 +10,10 @@ public class Main {
         numero1 += 15;
         System.out.println(numero1);
 
-        int miArray [];
-        miArray = new int [4];
-        miArray = new int [] {1, 2, 3, 4};
+        int numero2 [];
+        numero2 = new int [4];
+        numero2 = new int [] {1, 2, 3, 4};
 
-        System.out.println(miArray);
+        System.out.println(numero1);
     }
 }
