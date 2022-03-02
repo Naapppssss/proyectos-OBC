@@ -10,6 +10,7 @@ public class Main {
         numero1 += 15;
         System.out.println(numero1);
 
+
         int numero2 [];
         numero2 = new int [4];
         numero2 = new int [] {1, 2, 3, 4};
